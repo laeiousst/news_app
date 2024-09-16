@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "cSpell.words": [
+        "datasource",
+        "datasources",
+        "datetime",
+        "fullscreen",
+        "objectbox",
+        "prefs",
+        "Proxied",
+        "rapidapi",
+        "riverpod",
+        "usecase",
+        "usecases"
+    ],
+    "explorer.fileNesting.enabled": true,
+    "dart.lineLength": 120,
+    "explorer.fileNesting.expand": false
+}
